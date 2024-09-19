@@ -11,6 +11,10 @@
 ![Md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ___
+![Bona's GitHub stats](https://github-readme-stats.vercel.app/api?username=bona2662&show_icons=true&theme=buefy)
+___
+[💚Naver Blog💚](https://blog.naver.com/bona2662)
+___
 ### 공부중..
 
 - 데이터 분석 연습중..
